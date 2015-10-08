@@ -93,6 +93,8 @@ GEM
       memoist (~> 0.12)
       multi_json (~> 1.11)
       signet (~> 0.6)
+    haml (4.0.7)
+      tilt
     high_voltage (2.4.0)
     i18n (0.7.0)
     jbuilder (2.3.2)
@@ -207,6 +209,7 @@ DEPENDENCIES
   foundation-rails
   gibbon
   google_drive
+  haml
   high_voltage
   jbuilder (~> 2.0)
   jquery-rails
